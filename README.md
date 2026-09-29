@@ -30,12 +30,10 @@
 - [**PictionarAI**](https://github.com/Harley0ZHOU/PictionarAI) — AI-powered Pictionary experience
 - [**vscode-ssh-config-all-in-one**](https://github.com/Harley0ZHOU/vscode-ssh-config-all-in-one) — Enhanced SSH configuration tooling for VS Code
 
-## 📊 GitHub activity
+## 🚀 Currently building
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harley0ZHOU&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harley0ZHOU&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+- Exploring web development, developer tools, and collaborative projects
+- Turning ideas into practical, open-source work
 
 ---
 
