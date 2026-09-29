@@ -28,7 +28,6 @@
 
 - [**Otech-MC-Register-Web**](https://github.com/Harley0ZHOU/Otech-MC-Register-Web) — Web project
 - [**PictionarAI**](https://github.com/Harley0ZHOU/PictionarAI) — AI-powered Pictionary experience
-- [**vscode-ssh-config-all-in-one**](https://github.com/Harley0ZHOU/vscode-ssh-config-all-in-one) — Enhanced SSH configuration tooling for VS Code
 
 ## 🚀 Currently building
 
